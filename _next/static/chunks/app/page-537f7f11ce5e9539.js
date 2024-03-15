@@ -1,9 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{1668:function(e,r,n){Promise.resolve().then(n.bind(n,1295))},1295:function(e,r,n){"use strict";n.r(r),n.d(r,{default:function(){return Home}});var t=n(7437),o=n(9671),i=n.n(o);let PurchaseForm=e=>{let r=["厕所"].map((e,r)=>(0,t.jsx)("a",{href:"iosamap://poi?sourceApplication=hahahahah&name=".concat(e),className:i().item,children:"找".concat(e)},r)),isV=()=>/(MicroMessenger)/ig.test(window.navigator.userAgent);return(0,t.jsxs)("div",{children:[isV()&&"请在默认浏览器中打开哦",isV()?null:(0,t.jsx)("div",{className:i().container,children:r})]})};function Home(){return(0,t.jsx)(PurchaseForm,{})}},9671:function(e){e.exports={container:"page_container__aoG4z",item:"page_item__z7Kdy"}},622:function(e,r,n){"use strict";/**
- * @license React
- * react-jsx-runtime.production.min.js
- *
- * Copyright (c) Meta Platforms, Inc. and affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */var t=n(2265),o=Symbol.for("react.element"),i=(Symbol.for("react.fragment"),Object.prototype.hasOwnProperty),s=t.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,a={key:!0,ref:!0,__self:!0,__source:!0};function q(e,r,n){var t,c={},u=null,f=null;for(t in void 0!==n&&(u=""+n),void 0!==r.key&&(u=""+r.key),void 0!==r.ref&&(f=r.ref),r)i.call(r,t)&&!a.hasOwnProperty(t)&&(c[t]=r[t]);if(e&&e.defaultProps)for(t in r=e.defaultProps)void 0===c[t]&&(c[t]=r[t]);return{$$typeof:o,type:e,key:u,ref:f,props:c,_owner:s.current}}r.jsx=q,r.jsxs=q},7437:function(e,r,n){"use strict";e.exports=n(622)}},function(e){e.O(0,[971,864,744],function(){return e(e.s=1668)}),_N_E=e.O()}]);
